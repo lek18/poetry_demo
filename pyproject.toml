@@ -7,7 +7,6 @@ authors = ["Luis Ek <luis.ek3@icloud.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pandas = "^1.4.3"
-mflow = "1.26.0"
 
 [tool.poetry.dev-dependencies]
 
